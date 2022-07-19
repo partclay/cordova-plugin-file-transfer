@@ -9,7 +9,8 @@
       "android",
       "ios",
       "windows",
-      "browser"
+      "browser",
+      "osx"
     ]
   },
   "scripts": {
@@ -26,7 +27,8 @@
     "cordova-android",
     "cordova-ios",
     "cordova-windows",
-    "cordova-browser"
+    "cordova-browser",
+    "cordova-osx"
   ],
   "author": "Apache Software Foundation",
   "license": "Apache-2.0",

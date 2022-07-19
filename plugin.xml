@@ -78,4 +78,11 @@
             <clobbers target="window.FileTransfer" />
         </js-module>
     </platform>
+    
+    <!-- osx -->
+    <platform name="osx">
+        <js-module src="www/browser/FileTransfer.js" name="OSXFileTransfer">
+            <clobbers target="window.FileTransfer" />
+        </js-module>
+    </platform>
 </plugin>
